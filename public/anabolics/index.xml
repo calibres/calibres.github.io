@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anabolics on JoshWinks</title>
+    <link>https://spacesafari.github.io/allice-winner/anabolics/</link>
+    <description>Recent content in Anabolics on JoshWinks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Josh Wink</copyright>
+    <lastBuildDate>Tue, 18 Nov 2014 02:13:50 +0000</lastBuildDate>
+    
+	<atom:link href="https://spacesafari.github.io/allice-winner/anabolics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About anabolics</title>
+      <link>https://spacesafari.github.io/allice-winner/anabolics/about-steroids/</link>
+      <pubDate>Tue, 18 Nov 2014 02:13:50 +0000</pubDate>
+      
+      <guid>https://spacesafari.github.io/allice-winner/anabolics/about-steroids/</guid>
+      <description> About steroids </description>
+    </item>
+    
+  </channel>
+</rss>

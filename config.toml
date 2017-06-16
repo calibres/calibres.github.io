@@ -1,0 +1,65 @@
+baseurl = "https://spacesafari.github.io/allice-winner/"
+title = "JoshWinks"
+theme = "ghostwriter"
+languageCode = "en-us"
+copyright = "Josh Wink"
+# disqusShortname = "XXX"
+# googleAnalytics = "XXX"
+
+[Author]
+    name = "Josh Wink"
+    profile = "https://google.com/+XXX"
+
+[Taxonomies]
+    tag = "tags"
+
+[Params]
+    intro = true
+    headline = "ALL!C3-W!NN3R"
+    description = "ALL!C3-W!NN3R example description"
+    # github = "https://github.com/XXX"
+    # gitlab = "https://gitlab.com/XXX"
+    # linkedin = "https://linkedin.com/in/XXX/"
+    # gplus = "https://google.com/+XXX"
+    # twitter = "https://twitter.com/XXX"
+    # stackoverflow = "https://stackoverflow.com/users/XXX/YYY"
+    email = "XXX@example.com"
+    # opengraph = true
+    shareTwitter = true
+    shareFacebook = true
+    shareGooglePlus = true
+    shareLinkedIn = false
+    dateFormat = "Mon, Jan 2, 2006"
+
+[Permalinks]
+    post = "/post/:slug/"
+
+[[menu.main]]
+    name = "Блогролл"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Arnies"
+    url = "/arnies/"
+    weight = 2
+
+[[menu.main]]
+    name = "Anabolics"
+    url = "/anabolics/"
+    weight = 3
+
+[[menu.main]]
+    name = "Recovery"
+    url = "/recovery/"
+    weight = 4
+
+[[menu.main]]
+    name = "Contact"
+    url = "/page/contact/"
+    weight = 5
+
+[[menu.main]]
+    name = "About"
+    url = "/page/abouts/"
+    weight = 6
