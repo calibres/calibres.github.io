@@ -1,33 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on OLSUVOROVA</title>
-    <link>https://olsuvorova.github.io/page/</link>
-    <description>Recent content in Pages on OLSUVOROVA</description>
+    <title>Pages on CALIBRES</title>
+    <link>https://calibres.github.io/page/</link>
+    <description>Recent content in Pages on CALIBRES</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Josh Wink</copyright>
-    <lastBuildDate>Fri, 03 Apr 2015 02:13:50 +0000</lastBuildDate>
+    <language>ru-ru</language>
     
-	<atom:link href="https://olsuvorova.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://calibres.github.io/page/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>About</title>
-      <link>https://olsuvorova.github.io/page/abouts/</link>
-      <pubDate>Fri, 03 Apr 2015 02:13:50 +0000</pubDate>
+      <title>Фарма в кроссфите - тотальная перестройка</title>
+      <link>https://calibres.github.io/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://olsuvorova.github.io/page/abouts/</guid>
-      <description>About Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec dolor in magna lobortis egestas. Suspendisse eu erat tempor, tristique neque eu, convallis nulla. Curabitur vel bibendum lacus, at semper mauris. Suspendisse aliquet commodo ex, sed sagittis metus aliquam id. Maecenas feugiat rutrum lorem vel imperdiet. Nullam ornare lectus ut enim finibus, et porttitor mi tincidunt. Aenean lacinia, leo quis vehicula eleifend, quam libero sagittis erat, at euismod augue mauris et sapien.</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://olsuvorova.github.io/page/contact/</link>
-      <pubDate>Fri, 03 Apr 2015 02:13:50 +0000</pubDate>
-      
-      <guid>https://olsuvorova.github.io/page/contact/</guid>
-      <description>Contact Aenean ipsum justo, semper eu nisl ut, pretium tincidunt sem. Praesent et diam sit amet lacus lobortis dictum a id lacus. Quisque hendrerit sit amet turpis eu varius. Ut id lorem ac felis ultrices tincidunt. Pellentesque consequat arcu ac fringilla imperdiet. Phasellus pellentesque, sapien non pulvinar blandit, sapien ante aliquet felis, vel porttitor sapien ante in lacus. Fusce non urna aliquet, malesuada nibh vel, luctus urna. Phasellus ut lacus molestie, varius purus quis, malesuada lorem.</description>
+      <guid>https://calibres.github.io/faq/</guid>
+      <description>Фарма в кроссфите Спортпит просто обеспечивает стройматериалом организм, поддерживает жизненные функции. Химическая реакция при нехватке гормона невозможна - развитию мышц нет причины. Клетки растут, когда эндокринные железы формируют тесто.
+Химики со стажем - куда быстрее уйдут в мир собственных спортивных результатов. Допинговое Химло накинет маленько мяса под свитер да взорвет сдержанную тестостероновую атмосферу тощему. Тучный составит зажигательное фармакологическое сочетание, и сожжет залежавшееся сало изрядно.
+Врубить рост может лишь тестостерон, следственно спортивным питом подменить sport фарму невозможно.</description>
     </item>
     
   </channel>

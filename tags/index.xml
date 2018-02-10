@@ -1,68 +1,85 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on OLSUVOROVA</title>
-    <link>https://olsuvorova.github.io/tags/</link>
-    <description>Recent content in Tags on OLSUVOROVA</description>
+    <title>Tags on CALIBRES</title>
+    <link>https://calibres.github.io/tags/</link>
+    <description>Recent content in Tags on CALIBRES</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Josh Wink</copyright>
-    <lastBuildDate>Wed, 02 Apr 2014 02:13:50 +0000</lastBuildDate>
+    <language>ru-ru</language>
+    <lastBuildDate>Fri, 02 Feb 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://olsuvorova.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://calibres.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Development</title>
-      <link>https://olsuvorova.github.io/tags/development/</link>
-      <pubDate>Wed, 02 Apr 2014 02:13:50 +0000</pubDate>
+      <title>Cutting</title>
+      <link>https://calibres.github.io/tags/cutting/</link>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://olsuvorova.github.io/tags/development/</guid>
+      <guid>https://calibres.github.io/tags/cutting/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Go</title>
-      <link>https://olsuvorova.github.io/tags/go/</link>
-      <pubDate>Wed, 02 Apr 2014 02:13:50 +0000</pubDate>
+      <title>Doping</title>
+      <link>https://calibres.github.io/tags/doping/</link>
+      <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://olsuvorova.github.io/tags/go/</guid>
+      <guid>https://calibres.github.io/tags/doping/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Golang</title>
-      <link>https://olsuvorova.github.io/tags/golang/</link>
-      <pubDate>Wed, 02 Apr 2014 02:13:50 +0000</pubDate>
+      <title>Faq</title>
+      <link>https://calibres.github.io/tags/faq/</link>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://olsuvorova.github.io/tags/golang/</guid>
+      <guid>https://calibres.github.io/tags/faq/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Hugo</title>
-      <link>https://olsuvorova.github.io/tags/hugo/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Injects</title>
+      <link>https://calibres.github.io/tags/injects/</link>
+      <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://olsuvorova.github.io/tags/hugo/</guid>
+      <guid>https://calibres.github.io/tags/injects/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Templates</title>
-      <link>https://olsuvorova.github.io/tags/templates/</link>
-      <pubDate>Wed, 02 Apr 2014 02:13:50 +0000</pubDate>
+      <title>Newbies</title>
+      <link>https://calibres.github.io/tags/newbies/</link>
+      <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://olsuvorova.github.io/tags/templates/</guid>
+      <guid>https://calibres.github.io/tags/newbies/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Themes</title>
-      <link>https://olsuvorova.github.io/tags/themes/</link>
-      <pubDate>Wed, 02 Apr 2014 02:13:50 +0000</pubDate>
+      <title>Reviews</title>
+      <link>https://calibres.github.io/tags/reviews/</link>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://olsuvorova.github.io/tags/themes/</guid>
+      <guid>https://calibres.github.io/tags/reviews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tabs</title>
+      <link>https://calibres.github.io/tags/tabs/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://calibres.github.io/tags/tabs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Troubles</title>
+      <link>https://calibres.github.io/tags/troubles/</link>
+      <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://calibres.github.io/tags/troubles/</guid>
       <description></description>
     </item>
     
